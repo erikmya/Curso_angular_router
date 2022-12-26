@@ -1,0 +1,8 @@
+Clase 10
+
+Code Splitting
+
+Es la técnica que permite dividir el código
+en varios Chunks que se pueden descargar en demanda, mejorando la velocidad de carga de las páginas.
+
+----------------------------------------------------------------------------------------------------------------
