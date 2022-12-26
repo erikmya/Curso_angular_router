@@ -17,3 +17,8 @@ Feature Domain Module:son los módulos específicos del negocio
 Shared Module:Se usan para componentes pipes y directivas que se quieran usar en toda la aplicación
 
 -------------------------------------------------------------------------------------------------------------------------
+Clase 13
+
+Un sistema de gestión de contenido (CMS) es una aplicación de software que permite a los usuarios crear,
+editar, colaborar, publicar y almacenar contenido digital. Los CMS se utilizan normalmente para la gestión
+de contenido empresarial (ECM) y la gestión de contenido web (WCM).
