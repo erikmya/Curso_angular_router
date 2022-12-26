@@ -6,3 +6,14 @@ Es la técnica que permite dividir el código
 en varios Chunks que se pueden descargar en demanda, mejorando la velocidad de carga de las páginas.
 
 ----------------------------------------------------------------------------------------------------------------
+
+Clase 11
+
+Root Module: modulo por defecto de angluar
+Core Module: son servicios que pueden ser usados en diferentes módulos y componentes recordar que
+los servicios que se inyecta en el provideIn : ‘root’ se puede usar en cualquier parte.
+Routing Module: son módulos especiales que declaran un enrutamiento de la aplicación
+Feature Domain Module:son los módulos específicos del negocio
+Shared Module:Se usan para componentes pipes y directivas que se quieran usar en toda la aplicación
+
+-------------------------------------------------------------------------------------------------------------------------
